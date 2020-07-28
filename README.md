@@ -1,2 +1,2 @@
-# CrudDemo
-A Simple C# ASP .Net MVC 5 app to learn CRUD using Entity Framework
+# Dragora
+A Simple C# ASP .Net MVC 5 product management app to learn CRUD using Entity Framework
